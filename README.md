@@ -14,4 +14,4 @@ This project aims to implement gender classification using PyTorch, focusing on 
 
 - **Result Analysis**: Save training histories and final model weights for comparison across different hyperparameter settings to analyze training and validation performance.
 
-#### NB: If there is a problem with visualization, you can view the notebook on https://nbviewer.org/ by copying the link of the notebook there.
+### NB: If there is a problem with visualization, you can view the notebook on https://nbviewer.org/ by copying the link of the notebook there.
